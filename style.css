@@ -115,6 +115,11 @@ body {
   filter: drop-shadow(0 0 18px rgba(255, 50, 50, 0.55));
 }
 
+.thumb-emoji span {
+  font-size: 56px;
+  filter: drop-shadow(0 6px 14px rgba(0, 0, 0, 0.35));
+}
+
 .info {
   padding: 20px 22px 24px;
   display: flex;
